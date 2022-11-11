@@ -1,6 +1,6 @@
 # Calcolatrice
 
-Live: https://davidefolk.github.io/to-do-list/
+Live: https://davidefolk.github.io/Calcolatrice/
 
 Calcolatrice js
 
